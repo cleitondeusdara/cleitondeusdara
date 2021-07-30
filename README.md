@@ -1,4 +1,4 @@
-#### Oi! Eu sou o Cleiton 👋
+## Oi! Bem vindo ao meu GIT! 👋
 
 - 🔭 Hoje trabalho em projetos pessoais com Java back-end
 - 🌱 Estudando Spring Framework
@@ -9,15 +9,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitondeusdara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
 </div>
-
   <div style="display: inline_block"><br>
-  <img align="center" alt="Clei-Java" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">   
-  <img align="center" alt="Clei-MSql" height="110" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Clei-Java" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="cle-Spring" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">     
+  <img align="center" alt="Clei-MSql" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Clei-Git" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
+  
 </div>
-  <img align="center" alt="Clei-Git" height="90" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-
- 
   
   ##
 <div> 
