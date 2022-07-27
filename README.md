@@ -1,4 +1,4 @@
-## Oi! Bem vindo ao meu GIT! 👋
+## Oi! Bem vindo! 👋
 
 - 🔭 Hoje trabalho em projetos pessoais com Java back-end
 - 🌱 Estudando Spring Framework
