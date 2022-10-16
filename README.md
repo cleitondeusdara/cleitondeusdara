@@ -1,6 +1,5 @@
 ## Oi! Bem vindo! 👋
 
-- 🔭 Hoje trabalho em projetos pessoais com Java back-end
 - 🌱 Estudando Spring Framework
 
 
@@ -10,10 +9,10 @@
  
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Clei-Java" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">  
+  <img align="center" alt="Clei-Java" height="100" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="cle-Spring" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">     
   <img align="center" alt="Clei-MSql" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Clei-Git" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Clei-Git" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
   
 </div>
   
@@ -26,6 +25,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/cleitondeusdara/cleitondeusdara/blob/output/github-contribution-grid-snake.svg)
- <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue" alt="cleitondeusdara" /> 
+ <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=red" alt="cleitondeusdara" /> 
 </div>
 
