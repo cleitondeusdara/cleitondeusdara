@@ -1,6 +1,6 @@
 ## Oi! Bem vindo! 👋
 
-- 🌱 Estudando Spring Framework
+
 
 
 - <div>
